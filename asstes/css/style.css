@@ -9,6 +9,9 @@
   --color: #136ad5;
   --bg-color: #f8f9fa;
 }
+html {
+  scroll-behavior: smooth;
+}
 /* Start Global Features */
 .left-0 {
   left: 0;
